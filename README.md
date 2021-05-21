@@ -44,11 +44,11 @@ In order to allow the player to resume after remapping the scene, a queue of gam
 <img src="https://raw.githubusercontent.com/giodestone/Desk-Mysteries-AR/master/Images/Image 2.png" height="500">
 1. Find the key in the large right drawer and click on it.
 
-2.Click on the lock which is on the top left of the screen.
+2. Click on the lock which is on the top left of the screen.
 
-3.Find the pattern in the small bottom drawer.
+3. Find the pattern in the small bottom drawer.
 
-4.Enter the code “XXOXOXOO” using the buttons on the back of the desk.
+4. Enter the code “XXOXOXOO” using the buttons on the back of the desk.
 
 ## Asset Credits
 Icon was adapted. Pen compartment sounds were cut together. Sounds are all public domain.
