@@ -1,5 +1,5 @@
 # AR Desk Mysteries
-![GIF showing AR desk](TODO)
+<img src="https://raw.githubusercontent.com/giodestone/Desk-Mysteries-AR/master/Images/GIF.gif" height="500">
 
 3D augmented reality point and click game about finding a pen in a desk. Made in Unity with Google ARCore (not XR Foundation) as coursework for a module in University. As a result, a lot of functionality was implemented in code, rather than using the interface.
 
@@ -13,7 +13,7 @@ Instructions provided on screen.
 Scroll down for walkthrough!
 
 ## Implementation
-![Image of desk]()
+<img src="https://raw.githubusercontent.com/giodestone/Desk-Mysteries-AR/master/Images/Image 1.png" height="500">
 This project mostly uses ARCore's spatial tracking features. First, the player is asked to map out a scene, where ARCore will (hopefully) find a plane. The user can then pick out where they wish to place the desk, as represented by a cube. The player can go back to this stage at any time without losing their progress.
 
 ### Summary
@@ -33,13 +33,13 @@ The interaction technique was modelled after the camera app, along with a reticl
 The raycasting was implemented using ARCore's Frame.
 
 ### Gameplay Logic Implementation
-![Image of buttons]()
+<img src="https://raw.githubusercontent.com/giodestone/Desk-Mysteries-AR/master/Images/Image 3.png" height="500">
 Specialized logic was implemented in 'manager' classes, which handle the game state. In turn, they interact with reusable components, such as ones which detect presses. These components use a custom event sender and receiver interface to communicate with each other.
 
 In order to allow the player to resume after remapping the scene, a queue of gameplay events is kept constant between scenes. These events are then re-executed after the scene is loaded back in.
 
 ## Walkthrough
-![Image of desk?]()
+<img src="https://raw.githubusercontent.com/giodestone/Desk-Mysteries-AR/master/Images/Image 2.png" height="500">
 1. Find the key in the large right drawer and click on it.
 2.Click on the lock which is on the top left of the screen.
 3.Find the pattern in the small bottom drawer.
