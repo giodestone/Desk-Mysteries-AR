@@ -4,7 +4,7 @@
 3D augmented reality point and click game about finding a pen in a desk. Made in Unity with Google ARCore (not XR Foundation) as coursework for a module in University. As a result, a lot of functionality was implemented in code, rather than using the interface.
 
 ## Running
-[Download](TODO)
+[Download](https://github.com/giodestone/Desk-Mysteries-AR/releases)
 
 Only Android is supported. You must have enabled installing apps from untrusted sources.
 
